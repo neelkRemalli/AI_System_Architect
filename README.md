@@ -2,7 +2,7 @@
 Welcome to my AI System Architect training repository. This project documents a multi-stage journey from cloud-based LLM integration to local deployment and high-level system design.
 
 ## 🚀 Project Overview
-This repository contains 5 progressive labs focused on mastering AI infrastructure, prompt engineering, and local model deployment.
+This repository contains 8 progressive labs focused on mastering AI infrastructure, prompt engineering, and local model deployment.
 
 ---
 
@@ -20,7 +20,7 @@ This repository contains 5 progressive labs focused on mastering AI infrastructu
 - **Objective:** Build a functional UI to interact with Cloud LLMs (Gemini 2.0 via OpenRouter).
 - **Core Concepts:** Inference Pipelines, API Integration, Hyperparameter Tuning (Temperature, Max Tokens).
 - **Status:** ✅ Completed
-- Live Demo: https://huggingface.co/spaces/neelkRemalli/ai-system-architect-lab01
+- day-03 Live Demo: https://huggingface.co/spaces/neelkRemalli/ai-system-architect-lab01
 
 ### [Lab 02] - Local Infrastructure & Ollama Setup (Upcoming)
 - **Objective:** Migrating from Cloud to Localhost using Dell T5500.
@@ -38,6 +38,21 @@ This repository contains 5 progressive labs focused on mastering AI infrastructu
 - **Status:** 📅 Planned
 
 ### [Lab 05] - Agentic Workflows & Tool Use
+- **Objective:** Building an AI agent that can execute Python code and search the web.
+- **Core Concepts:** Function Calling, ReAct Logic, Autonomous Agents.
+- **Status:** 📅 Planned
+
+### [Lab 06] - Agentic Workflows & Tool Use
+- **Objective:** Building an AI agent that can execute Python code and search the web.
+- **Core Concepts:** Function Calling, ReAct Logic, Autonomous Agents.
+- **Status:** 📅 Planned
+
+### [Lab 07] - Agentic Workflows & Tool Use
+- **Objective:** Building an AI agent that can execute Python code and search the web.
+- **Core Concepts:** Function Calling, ReAct Logic, Autonomous Agents.
+- **Status:** 📅 Planned
+
+### [Lab 08] - Agentic Workflows & Tool Use
 - **Objective:** Building an AI agent that can execute Python code and search the web.
 - **Core Concepts:** Function Calling, ReAct Logic, Autonomous Agents.
 - **Status:** 📅 Planned
