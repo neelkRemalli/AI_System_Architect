@@ -32,9 +32,11 @@ API-First Intelligence: Integrating Gemini 3 Flash (via Google AI Studio) to pro
 - **Status:** 📅 Completed
 
 ### [Lab 03] - System Architecture & Load Balancing
-- **Objective:** Designing a resilient AI system that handles multiple requests.
-- **Core Concepts:** Request Queuing, Model Switching, Scalability.
-- **Status:** 📅 Planned
+- **Objective:** Objective: Building an AI agent that can execute Python code and search the web.
+
+
+- **Core Concepts:** Function Calling, ReAct Logic, Autonomous Agents.
+- **Status:** 📅 Completed
 
 ### [Lab 04] - Agentic Workflows & Tool Use
 - **Objective:** Building an AI agent that can execute Python code and search the web.
